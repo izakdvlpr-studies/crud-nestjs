@@ -51,7 +51,7 @@ A simple crud made using Nest.js
 
 ## Credits
 
-- [Rocketseat](https://www.youtube.com/x/RocketSeat)
+- [Rocketseat](https://www.youtube.com/c/RocketSeat)
 
 <br>
 <br>
