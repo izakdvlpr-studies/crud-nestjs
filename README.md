@@ -24,6 +24,7 @@ A simple crud made using Nest.js
 
 - [Git](https://git-scm.com/) installed
 - [Node](https://node.js.org/) installed
+- [Docker](https://www.docker.com/) installed
 - Npm or [Yarn](https://yarnpkg.com/) installed
 
 ## Usage
